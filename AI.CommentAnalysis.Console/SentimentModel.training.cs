@@ -9,7 +9,7 @@ using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
 
-namespace MyMLApp
+namespace AI_CommentAnalysis_Console
 {
     public partial class SentimentModel
     {

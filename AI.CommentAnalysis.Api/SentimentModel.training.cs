@@ -8,9 +8,6 @@ using System.Threading.Tasks;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 using Microsoft.ML.Trainers;
-
-namespace MyMLApp
-{
     public partial class SentimentModel
     {
         public const string RetrainFilePath =  @"C:\Users\10299191\source\repos\myMLApp\myMLApp\yelp_labelled.txt";
@@ -98,4 +95,4 @@ namespace MyMLApp
             return pipeline;
         }
     }
- }
+ 
