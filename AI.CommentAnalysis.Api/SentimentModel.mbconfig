@@ -8,7 +8,7 @@
     "KeepPunctuations": false,
     "AllowQuoting": false,
     "Type": "TabularFile",
-    "FilePath": "C:\\Users\\10299191\\source\\repos\\myMLApp\\myMLApp\\yelp_labelled.txt",
+    "FilePath": "C:\\Users\\10299191\\source\\repos\\AI.CommentAnalysis\\AI.CommentAnalysis\\yelp_labelled.txt",
     "Delimiter": "\t",
     "DecimalMarker": ".",
     "HasHeader": false,
@@ -238,7 +238,7 @@
     "Version": 2,
     "Subsampling": false,
     "Type": "ClassificationTrainingOption",
-    "TrainingTime": 600,
+    "TrainingTime": 10,
     "LabelColumn": "col1",
     "ValidationOption": {
       "Version": 0,
